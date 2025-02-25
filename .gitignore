@@ -1,2 +1,7 @@
 conversions/__pycache__/
-sample/xml2json/*.json
+sample/xml/*.json
+sample/xml/*.yml
+sample/json/*.xml
+sample/json/*.yml
+sample/yaml/*.json
+sample/yaml/*.xml

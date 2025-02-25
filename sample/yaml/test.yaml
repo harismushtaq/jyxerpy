@@ -1,0 +1,15 @@
+person:
+  id: "1"
+  name: John Doe
+  contact:
+    email: john@example.com
+    phone: "123-456-7890"
+  addresses:
+    - type: home
+      street: 123 Main St
+      city: New York
+      zip: "10001"
+    - type: work
+      street: 456 Office Rd
+      city: Los Angeles
+      zip: "90001"

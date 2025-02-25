@@ -1,0 +1,21 @@
+<root>
+    <person id="1">
+        <name>John Doe</name>
+        <contact>
+            <email>john@example.com</email>
+            <phone>123-456-7890</phone>
+        </contact>
+        <addresses>
+            <address type="home">
+                <street>123 Main St</street>
+                <city>New York</city>
+                <zip>10001</zip>
+            </address>
+            <address type="work">
+                <street>456 Office Rd</street>
+                <city>Los Angeles</city>
+                <zip>90001</zip>
+            </address>
+        </addresses>
+    </person>
+</root>

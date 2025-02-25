@@ -1,0 +1,136 @@
+{
+  "regtest": {
+    "records": {
+      "@table": "ACT_EMPLOYEE_PAY_CHOICES",
+      "@audit_included": "false",
+      "@complete_dataset": "true",
+      "@dump_type": "FULL",
+      "@minor_version": "20.2.0",
+      "ACT_EMPLOYEE_PAY_CHOICES": [
+        {
+          "ACT_CASE": "920",
+          "EFF_DT": "1900-01-01",
+          "END_EFF_DT": "3000-12-31",
+          "ACT_CUSTOMER_LEAVE_POLICY": "SICK",
+          "USE_THIS_LEAVE": "true",
+          "USE_ORDER": "1"
+        },
+        {
+          "ACT_CASE": "920",
+          "EFF_DT": "1900-01-01",
+          "END_EFF_DT": "3000-12-31",
+          "ACT_CUSTOMER_LEAVE_POLICY": "TEST",
+          "USE_THIS_LEAVE": "true",
+          "USE_ORDER": "2"
+        },
+        {
+          "ACT_CASE": "933",
+          "EFF_DT": "1900-01-01",
+          "END_EFF_DT": "3000-12-31",
+          "ACT_CUSTOMER_LEAVE_POLICY": "SICK",
+          "USE_THIS_LEAVE": "true",
+          "USE_ORDER": "1"
+        },
+        {
+          "ACT_CASE": "933",
+          "EFF_DT": "1900-01-01",
+          "END_EFF_DT": "3000-12-31",
+          "ACT_CUSTOMER_LEAVE_POLICY": "PERSONAL",
+          "USE_THIS_LEAVE": "true",
+          "USE_ORDER": "2"
+        },
+        {
+          "ACT_CASE": "933",
+          "EFF_DT": "1900-01-01",
+          "END_EFF_DT": "3000-12-31",
+          "ACT_CUSTOMER_LEAVE_POLICY": "VACATION",
+          "USE_THIS_LEAVE": "true",
+          "USE_ORDER": "3"
+        },
+        {
+          "ACT_CASE": "933",
+          "EFF_DT": "1900-01-01",
+          "END_EFF_DT": "3000-12-31",
+          "ACT_CUSTOMER_LEAVE_POLICY": "TEST",
+          "USE_THIS_LEAVE": "true",
+          "USE_ORDER": "4"
+        },
+        {
+          "ACT_CASE": "934",
+          "EFF_DT": "1900-01-01",
+          "END_EFF_DT": "3000-12-31",
+          "ACT_CUSTOMER_LEAVE_POLICY": "SICK",
+          "USE_THIS_LEAVE": "true",
+          "USE_ORDER": "1"
+        },
+        {
+          "ACT_CASE": "934",
+          "EFF_DT": "1900-01-01",
+          "END_EFF_DT": "3000-12-31",
+          "ACT_CUSTOMER_LEAVE_POLICY": "PERSONAL",
+          "USE_ORDER": "2"
+        },
+        {
+          "ACT_CASE": "934",
+          "EFF_DT": "1900-01-01",
+          "END_EFF_DT": "3000-12-31",
+          "ACT_CUSTOMER_LEAVE_POLICY": "VACATION",
+          "USE_THIS_LEAVE": "true",
+          "USE_ORDER": "3"
+        },
+        {
+          "ACT_CASE": "934",
+          "EFF_DT": "1900-01-01",
+          "END_EFF_DT": "3000-12-31",
+          "ACT_CUSTOMER_LEAVE_POLICY": "TEST",
+          "USE_THIS_LEAVE": "true",
+          "USE_ORDER": "4"
+        },
+        {
+          "ACT_CASE": "935",
+          "EFF_DT": "1900-01-01",
+          "END_EFF_DT": "3000-12-31",
+          "ACT_CUSTOMER_LEAVE_POLICY": "SICK",
+          "USE_THIS_LEAVE": "true",
+          "USE_ORDER": "1"
+        },
+        {
+          "ACT_CASE": "935",
+          "EFF_DT": "1900-01-01",
+          "END_EFF_DT": "3000-12-31",
+          "ACT_CUSTOMER_LEAVE_POLICY": "PERSONAL",
+          "USE_ORDER": "2"
+        },
+        {
+          "ACT_CASE": "935",
+          "EFF_DT": "1900-01-01",
+          "END_EFF_DT": "3000-12-31",
+          "ACT_CUSTOMER_LEAVE_POLICY": "VACATION",
+          "USE_ORDER": "3"
+        },
+        {
+          "ACT_CASE": "935",
+          "EFF_DT": "1900-01-01",
+          "END_EFF_DT": "3000-12-31",
+          "ACT_CUSTOMER_LEAVE_POLICY": "TEST",
+          "USE_ORDER": "4"
+        },
+        {
+          "ACT_CASE": "937",
+          "EFF_DT": "1900-01-01",
+          "END_EFF_DT": "3000-12-31",
+          "ACT_CUSTOMER_LEAVE_POLICY": "SICK",
+          "USE_THIS_LEAVE": "true"
+        },
+        {
+          "ACT_CASE": "938",
+          "EFF_DT": "1900-01-01",
+          "END_EFF_DT": "3000-12-31",
+          "ACT_CUSTOMER_LEAVE_POLICY": "SICK",
+          "USE_THIS_LEAVE": "true",
+          "USE_ORDER": "-1"
+        }
+      ]
+    }
+  }
+}
